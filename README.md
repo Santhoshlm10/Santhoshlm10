@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Santhosh
 - 👀 I’m interested in Web and Mobile development
-- 🌱 I’m currently learning full stack
 - 📫 santhosh4u1997@gmail.com
 
 <!---
